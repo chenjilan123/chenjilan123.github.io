@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "ThirdPartyApp.com.companyname.appname5",
+				"paths": [ "/app/*" ]
+			}
+		]
+	}
+}
