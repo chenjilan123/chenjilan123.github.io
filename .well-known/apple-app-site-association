@@ -1,8 +1,9 @@
 {
 	"applinks": {
+		"apps": [],
 		"details": [
 			{
-				"appIDs": [ "ZK8DK53L93.com.companyname.appname5" ],
+				"appID": "ZK8DK53L93.com.companyname.appname5",
 				"paths": [ "*", "/" ]
 			}
 		]
